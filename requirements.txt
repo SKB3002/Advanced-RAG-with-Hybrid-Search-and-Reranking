@@ -1,0 +1,7 @@
+chromadb
+langchain-community
+rank_bm25
+python-docx
+pymupdf
+sentence-transformers
+gradio
