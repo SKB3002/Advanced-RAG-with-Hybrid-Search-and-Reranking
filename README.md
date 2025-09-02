@@ -1,5 +1,5 @@
 # 🧠 RAG Pipeline with Hybrid Search, Reranking, and LLMs  
-> End-to-End Retrieval-Augmented Generation (RAG) System with ChromaDB, BM25, and Groq’s LLaMA Models  
+> End-to-End Retrieval-Augmented Generation (RAG) System with ChromaDB, BM25, and Groq’s LLaMA Models and Langchain  
 > Currently deployed on Hugging Face Spaces 🚀 | Planned migration to AWS/GCP ☁️
 
 ---
@@ -38,7 +38,7 @@ We built this with **Langchain**:
 | **Sparse Retrieval** | [rank-bm25](https://pypi.org/project/rank-bm25/)                         |
 | **Document Parsing** | PyMuPDF (`fitz`), python-docx                                             |
 | **UI**               | [Gradio](https://gradio.app/)                                            |
-| **Deployment**       | Hugging Face Spaces (current), AWS/GCP (planned)                         |
+| **Deployment**       | [Hugging Face Spaces (current)](https://huggingface.co/spaces/SKB3002/Advanced-RAG-with-Hybrid-Search-and-Reranking), AWS/GCP (planned)                         |
 | **Language**         | Python 3.11                                                              |
 
 ---
