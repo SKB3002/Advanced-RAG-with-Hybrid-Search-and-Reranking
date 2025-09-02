@@ -9,7 +9,6 @@ from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
-from openai import OpenAI
 import requests
 import gradio as gr
 
