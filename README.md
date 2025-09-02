@@ -5,9 +5,9 @@
 ---
 
 ## 📌 Overview  
-This project is a **complete Retrieval-Augmented Generation (RAG)** pipeline that combines **vector search**, **keyword-based search (BM25)**, and **reranking** to retrieve the most relevant context from documents before querying a **Large Language Model (LLM)** for precise answers.  
+This project is a **complete Retrieval-Augmented Generation (RAG)** pipeline that combines **vector search**, **keyword-based search (BM25)**, and **reranking** from **Langchain** to retrieve the most relevant context from documents before querying a **Large Language Model (LLM)** for precise answers.  
 
-We built this from scratch with:  
+We built this with **Langchain**:  
 - **PDF & DOCX ingestion**  
 - **Chunking and vector embedding storage (ChromaDB)**  
 - **Hybrid retrieval (BM25 + vector search)**  
